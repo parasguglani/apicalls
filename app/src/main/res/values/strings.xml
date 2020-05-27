@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">parser</string>
+    <string name="connection_error">Error in network</string>
+    <string name="xml_error">data error</string>
+    <string name="updated">updated</string>
+    <string name="page_title">page_title</string>
+    <string name="notice">Notice</string>
+    <string name="country">Country</string>
+    <string name="location">Location</string>
+    <string name="temperature">Temprature</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+</resources>
